@@ -1,8 +1,8 @@
 
 # 👋 Hi there, I'm Wathsala Achini
 
-## 💬 Ask Me About
- 🎓  - I am a Final year undergraduate at University of Colombo | Bsc (Hons) in Computational Mathematics .
+## 💬 Ask Me About:
+ 🎓   I am a Final year undergraduate at University of Colombo | Bsc (Hons) in Computational Mathematics .
 ---
 
 ## 🔍 I’m currently looking for opportunities in:
