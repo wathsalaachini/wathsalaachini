@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me
-I am a Final year undergraduate at University of Colombo | Bsc (Hons) in Computational Mathematics .
+I'm a Final year undergraduate at University of Colombo | Bsc (Hons) in Computational Mathematics .
 
 ---
 
