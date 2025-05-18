@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me
-I’m passionate about applying mathematical and computational techniques to real-world data problems. I enjoy working on projects that involve data wrangling, statistical analysis, and machine learning.
+I am a Final year undergraduate at University of Colombo | Bsc (Hons) in Computational Mathematics .
 
 ---
 
